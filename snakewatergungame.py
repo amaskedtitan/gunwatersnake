@@ -32,7 +32,7 @@ while rounds <= n:
 
 	player = chosing()
 
-	
+	#i use arch btw
 	if player != 's' and player != 'w' and player != 'g':
 		print("Invalid input, try again\n")
 		continue
